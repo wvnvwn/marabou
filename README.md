@@ -302,7 +302,3 @@ bash run_all.sh resnet20 cifar10
 | ONNX Conversion | ~5 sec | ~5 sec |
 | Marabou Verification | ~1-5 min | ~1-5 min |
 | **Total** | **~30-40 min** | **~2-3 hours** |
-
----
-
-*Last updated: November 2025*
