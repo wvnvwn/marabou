@@ -1,0 +1,11 @@
+Verification Results
+============================================================
+Model: ./checkpoints/best_model.pth
+ONNX: ./checkpoints/best_model.onnx
+Test sample label: 3
+Epsilon: 0.02
+Timeout: 60s
+
+Result: ROBUST
+Verification time: 113.19s
+============================================================

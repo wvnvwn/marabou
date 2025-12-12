@@ -1,0 +1,24 @@
+# Neural Network Verification - Assignment 3
+# Python Dependencies
+# IMPORTANT: Requires Python 3.10 (not 3.11+ due to PyTorch compatibility)
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Model Format
+onnx>=1.14.0
+onnxruntime>=1.15.0
+
+# Verification Tool
+maraboupy>=2.0.0
+
+# Numerical Computing
+# CRITICAL: NumPy 2.x breaks PyTorch 2.0.x compatibility
+numpy>=1.21.0,<2.0
+
+# Progress Bar
+tqdm>=4.65.0
+
+# Visualization
+matplotlib>=3.7.0
