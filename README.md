@@ -1,8 +1,4 @@
-# Neural Network Verification with Marabou - Assignment 3
-
-**Author**: [Your Name]  
-**Date**: November 2025  
-**Course**: Neural Network Reliability Verification
+# Personal Project for MARABOU
 
 ---
 
